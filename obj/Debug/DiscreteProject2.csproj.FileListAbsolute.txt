@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\DiscreteProject2\DiscreteProject2\bin\Debug\DiscreteProject2.exe.config
+C:\Users\Dell\source\repos\DiscreteProject2\DiscreteProject2\bin\Debug\DiscreteProject2.exe
+C:\Users\Dell\source\repos\DiscreteProject2\DiscreteProject2\bin\Debug\DiscreteProject2.pdb
+C:\Users\Dell\source\repos\DiscreteProject2\DiscreteProject2\obj\Debug\DiscreteProject2.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\DiscreteProject2\DiscreteProject2\obj\Debug\DiscreteProject2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\DiscreteProject2\DiscreteProject2\obj\Debug\DiscreteProject2.exe
+C:\Users\Dell\source\repos\DiscreteProject2\DiscreteProject2\obj\Debug\DiscreteProject2.pdb
